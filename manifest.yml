@@ -54,3 +54,9 @@ dependencies:
     md5: 2b966ce7cceda8bcb6aba43eb99b81cf
     cf_stacks:
       - cflinuxfs2
+  - name: node
+    version: 4.0.0
+    uri: http://s3pository.heroku.com/node/v4.0.0/node-v4.0.0-linux-x64.tar.gz
+    md5: ad9aa8802fe1ef5b9c96913fd2d08816
+    cf_stacks:
+      - cflinuxfs2
